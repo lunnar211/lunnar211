@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python,Java,Html,c,css,Javascript**
 
-- 📝 I regularly write articles on [https://dipeshkarki1.com.np/](https://dipeshkarki1.com.np/)
+- 📝 I regularly write articles on [learnearnwithonline.blogspot.com](learnearnwithonline.blogspot.com)
 
 - 📫 How to reach me **karkimadan48@gmail.com**
 
