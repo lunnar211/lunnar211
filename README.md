@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/diepsh.karki.1800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diepsh.karki.1800" height="30" width="40" /></a>
-<a href="https://instagram.com/dipeshkarkidk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipeshkarkidk" height="30" width="40" /></a>
+<a href="https://instagram.com/dipesh.karki__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipeshkarkidk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/technicaldipesh_hacks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technicaldipesh_hacks" height="30" width="40" /></a>
 </p>
 
